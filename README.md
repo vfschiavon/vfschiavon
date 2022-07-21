@@ -15,9 +15,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/vfschiavon/vfschiavon/blob/output/snake.svg" alt="Snake animation" />
-
-###
